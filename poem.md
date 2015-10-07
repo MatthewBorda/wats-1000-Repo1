@@ -4,7 +4,7 @@
 
 ***
 
-    **Gods**, what a black, fierce day! The clouds were iron,
+    -Gods, what a black, fierce day! The clouds were iron,
     Wrenched to strange, rugged shapes; the red sun winked
     Over the rough crest of the hairy wood
     In angry scorn; the grey road twisted, kinked,
