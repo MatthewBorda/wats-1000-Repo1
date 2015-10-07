@@ -2,9 +2,9 @@
 
 ## By Stephen Vincent Benet
 
+***
 
-
-    Gods, what a black, fierce day! The clouds were iron,
+    **Gods**, what a black, fierce day! The clouds were iron,
     Wrenched to strange, rugged shapes; the red sun winked
     Over the rough crest of the hairy wood
     In angry scorn; the grey road twisted, kinked,
@@ -67,4 +67,4 @@
     Wind-smitten, dread, against the sky-line's rim,
     Black, dragon branches whipped below a moon!
     
-    http://www.public-domain-poetry.com/stephen-vincent-benet/fiddling-wood-12859
+    [Link to Poem on Public Domain Poetry](http://www.public-domain-poetry.com/stephen-vincent-benet/fiddling-wood-12859)
